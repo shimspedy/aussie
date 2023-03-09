@@ -1,0 +1,9 @@
+baseURL : https://contactgovernors.com/
+languageCode : en-us
+title : Contact United States Governors
+author : john
+taxonomies: ""
+pygmentsstyle: default
+PygmentsCodeFences: true
+disqusShortname: contactgov
+theme: "gov"
