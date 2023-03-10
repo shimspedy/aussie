@@ -1,9 +1,9 @@
-baseURL : https://contactgovernors.com/
+baseURL : https://aussiegov.com/
 languageCode : en-us
-title : Contact United States Governors
+title : Contact Australian Representatives
 author : john
 taxonomies: ""
 pygmentsstyle: default
 PygmentsCodeFences: true
-disqusShortname: contactgov
+disqusShortname: 
 theme: "gov"

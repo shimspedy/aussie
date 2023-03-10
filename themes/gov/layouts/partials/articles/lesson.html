@@ -30,7 +30,7 @@
               <h1 itemprop="about" class="flow-text" style="font-size: 18px;">{{.Params.Role}} {{.Params.Name}} Contact
                 information</h1>
               <p class="flow-text" style="font-size: 12px;">Here you will find contact information for {{.Params.Role}}
-                {{.Params.Name}}, including email address, phone number, and mailing address.</p>
+                {{.Params.Name}}, including  phone number, and mailing address.</p>
                 <table>
                   <tbody>
                     <tr>
@@ -57,66 +57,48 @@
                       </td>
                     </tr>
                     {{end}}
-                    {{ if isset .Params "enteredoffice" }}
+                    {{ if isset .Params "elected" }}
                     <tr>
-                      <td>Entered Office</td>
-                      <td>{{.Params.Enteredoffice}}</td>
+                      <td>elected</td>
+                      <td>{{.Params.elected}}</td>
                     </tr>
                     {{end}}
-                    {{ if isset .Params "terms" }}
+                    {{ if isset .Params "mailing1" }}
                     <tr>
-                      <td>Terms</td>
-                      <td>{{.Params.Terms}}</td>
+                      <td>Mailing Address </td>
+                      <td>{{.Params.Mailing1}} </td>
                     </tr>
                     {{end}}
-                    {{ if isset .Params "terms1" }}
+                    {{ if isset .Params "phone1" }}
                     <tr>
-                      <td>Terms1</td>
-                      <td>{{.Params.Terms1}}</td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "terms2" }}
-                    <tr>
-                      <td>Terms 2</td>
-                      <td>{{.Params.Terms2}}</td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "officeroom" }}
-                    <tr>
-                      <td>Office Room</td>
-                      <td>{{.Params.Officeroom}}</td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "mailingaddress" }}
-                    <tr>
-                      <td>Mailing Address</td>
-                      <td>{{.Params.Mailingaddress}} </td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "mailingaddress1" }}
-                    <tr>
-                      <td>Mailing Address</td>
-                      <td>{{.Params.Mailingaddress1}} </td>
-                    </tr>
-                    {{end}}
-                    {{ if isset .Params "phonenumber" }}
-                    <tr>
-                      <td>Phone number</td>
-                      <td><a href="tel:{{.Params.Phonenumber}}" class="" itemprop="telephone">{{.Params.Phonenumber}}</a>
+                      <td>Phone</td>
+                      <td><a href="tel:{{.Params.Phone1}}" class="" itemprop="telephone">{{.Params.Phone1}}</a>
                       </td>
                     </tr>
                     {{end}}
-                    {{ if isset .Params "phonenumber1" }}
+                    {{ if isset .Params "mailing2" }}
                     <tr>
-                      <td>Phone number</td>
-                      <td><a href="tel:{{.Params.Phonenumber1}}" class=""
-                          itemprop="telephone">{{.Params.Phonenumber1}}</a></td>
+                      <td>Mailing Address</td>
+                      <td>{{.Params.Mailing2}} </td>
+                    </tr>
+                    {{end}}
+                   
+                    {{ if isset .Params "phone2" }}
+                    <tr>
+                      <td>Phone</td>
+                      <td><a href="tel:{{.Params.Phone2}}" class=""
+                          itemprop="telephone">{{.Params.Phone2}}</a></td>
                     </tr>
                     {{end}}
                     {{ if isset .Params "fax1" }}
                     <tr>
                       <td>fax 1</td>
                       <td>{{.Params.Fax1}}</a></td>
+                    </tr>
+                    {{else}}
+                    <tr>
+                      <td>fax 2</td>
+                      <td>{{.Params.Fax2}}</a></td>
                     </tr>
                     {{end}}
                     <tr>
@@ -140,20 +122,6 @@
         {{ partial "subheader" . }}
         <div class="adsgoogle">
 
-        <!-- Ezoic - top_of_page - top_of_page -->
-        <div id="ezoic-pub-ad-placeholder-106"> 
-          <script async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-          crossorigin="anonymous"></script>
-        <!-- afrixside -->
-        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
-          data-ad-slot="5494845660" data-ad-format="auto"></ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-          
-        </div>
-        <!-- End Ezoic - top_of_page - top_of_page -->
         </div>
         <h2>{{.Params.Name}} for {{.Params.Role}}</h2>
         {{ if .Params.Twitter }}
@@ -169,16 +137,7 @@
           {{.Content}}
         </div>
         <div class="adsgoogle">
-            <script async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7616051391644176"
-            crossorigin="anonymous"></script>
-          <!-- afrixside -->
-          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7616051391644176"
-            data-ad-slot="5494845660" data-ad-format="auto"></ins>
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script> 
-        
+          
         </div>
 
 

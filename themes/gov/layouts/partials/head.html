@@ -2,8 +2,10 @@
 
 {{ if or (eq .Params.inoffice "current") (eq .Params.inoffice "former") }}
 <title>contact {{.Params.Role}} {{.Params.Name}} of {{.Params.State}}</title>
-{{ else }}
-<title>{{.Params.seo_title}} | contactgovernors.com</title>
+{{ else if isset .Params "seo_title" }}
+<title>{{.Params.seo_title}} | aussiegov.com</title>
+{{else}}
+<title>aussiegov.com</title>
 {{- end -}}
 <meta charset="utf-8">
 <meta http-equiv='content-language' content='en-gb'>
