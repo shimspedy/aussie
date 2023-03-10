@@ -31,3 +31,18 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=252157
 twitter: JessWalshVic
 facebook: JessWalshVic
 ---
+Jess Walsh is proud to be a Labor Senator representing the people of Victoria in Canberra.
+
+She believes in an Australia founded on decent, stable jobs and strong government services.
+
+She wants our country to face the challenges of the future with optimism and hope.
+
+And she speaks out for a society based on respect and inclusion.
+
+Before entering Federal Parliament Jess spent her working life as a researcher, campaigner and union leader.
+
+As Victorian Secretary of one of Australia’s largest unions, she represented diverse people including cleaners, ambos, security officers, early childhood educators and hospitality workers.
+
+Jess is passionate about helping people build a strong voice at work, in the community and with government.
+
+She holds a Masters Degree from the University of Southern California and a PhD from the University of Melbourne.

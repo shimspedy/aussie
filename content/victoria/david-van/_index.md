@@ -31,3 +31,16 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=283601
 twitter: VanSenate
 facebook: SenatorDavidVan
 ---
+Senator David Van is a Liberal Senator for Victoria. Elected to the Senate in 2019. 
+
+During his time in the Senate, David has spoken in Chambers extensively on Foreign Affairs, Defence and Trade, Energy and the Environment. He is a vocal advocate on gender issues, Australia-Israeli ties and small business. 
+
+He writes and speaks often on the current geo-political environment and is actively engaged in strengthening bilateral relations with our near neighbours in the Indo-Pacific. He holds a Master of International Relations degree from Monash University and is undertaking a Master of Strategy and Security degree at UNSW at the Australian Defence Force Academy (ADFA).
+
+He is the Deputy Chair of the Subcommittee on Foreign Affairs and Aid of the Joint Standing Committee on Foreign Affairs, Defence and Trade as well as Deputy Chair of the Senate Standing Committee for the Scrutiny of Delegated Legislation. He is also an active member of several committees including the Joint Standing Committee on Treaties and the Joint Standing Committee on the National Capital and External Territories.
+
+Senator Van’s commitment to international relations is reflected in his membership of several Parliamentary Friendship groups, co-chairing Parliamentary Friendship Groups of Spain, Mexico, Thailand, Ukraine and the Pacific Islands. 
+
+Prior to being elected to the Senate in 2019, David ran a public affairs consultancy for 15 years advising clients through four Royal Commissions and various other inquiries including NSW ICAC as well as commercial litigation.
+
+Born and raised in Melbourne’s bayside suburbs, David is a passionate Collingwood Football Club member and loves being in the great outdoors as evidenced in his years as a Ski Instructor post-Uni. David can often be found outside on the weekends diving, sailing, mountain and road cycling and of course skiing whenever possible.

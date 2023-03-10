@@ -14,7 +14,7 @@ layout: course_home
 
 
 ####candidate
-name: The Hon Bridget McKenzie
+name: Bridget McKenzie
 state:	victoria
 party:	The Nationals
 role: senator
@@ -31,3 +31,4 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=207825
 twitter: senbmckenzie
 facebook: senatormckenzie
 ---
+Bridget McKenzie is an Australian politician who has been a Senator for Victoria since 2011, and a member of the National Party. McKenzie held various ministerial positions in the Turnbull and Morrison governments, including Minister for Rural Health, Sport, Regional Communications, Regional Services, Local Government and Decentralisation, and Agriculture. She was also the party's Senate leader since 2019. McKenzie grew up in Benalla, Victoria, and worked as a schoolteacher and university lecturer before entering politics. She was elected to the Senate in the 2010 federal election, and served as a whip from 2011 to 2013. McKenzie replaced Fiona Nash as deputy leader of the Nationals during the 2017 parliamentary eligibility crisis and was elevated to cabinet. McKenzie resigned from cabinet and as deputy leader in 2020 due to a scandal involving the administration of community sporting grants. She was reappointed to cabinet in 2021 following a Nationals leadership spill. In this new appointment, she is the Minister for Emergency Management and National Recovery and Resilience, and Minister for Regionalisation, Regional Communications, and Regional Education.

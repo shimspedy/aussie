@@ -31,3 +31,4 @@ website: https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=280304
 twitter: lidia__thorpe
 facebook: lidiathorpe
 ---
+Lidia Alma Thorpe has been critical of the proposal for an Indigenous Voice to Parliament by the Albanese Government, which has drawn media attention. Thorpe has also been known for her criticism of the legitimacy of Australian political institutions, which she attributes to colonialism. However, Thorpe has received criticism for her "aggressive behavior" towards police. In October 2022, she was forced to resign as Deputy Leader of the Greens in the Senate after failing to declare a relationship with a senior Rebels outlaw bikie gang member while serving on the Senate committee investigating bikie gangs. Despite these controversies, Thorpe continues to be an influential politician, being the first Aboriginal senator from Victoria and holding several positions in the Australian government.
