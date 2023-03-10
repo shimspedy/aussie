@@ -186,21 +186,10 @@ article li::marker, .post-content li::marker {
 }
 .brand-logo img{
      background: #8992b1;
-     border-radius: 50%;
+     /* border-radius: 50%; */
      border-right: 5px solid #0f1b547a;
      border-left: 5px solid #563197;
      border-top: 5px solid #414094;
      border-bottom: 5px solid #a9007a;
 }
 
-.mpscomments{
-     padding: 20px;
-   }
-   div#idc-container-parent {
-     padding: 25px 10px 20px;
-     margin: 20px;
-     background: #8fa8d542;
-     cursor: default;
-     border: 6px double #fff;
-     box-shadow: 0 0 0 3px silver, 1em 1em 3px 0 rgb(0 0 0 / 9%);
- }
