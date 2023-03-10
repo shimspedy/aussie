@@ -14,7 +14,7 @@ layout: course_home
 
 
 ####candidate
-name: The Hon Sarah Henderson
+name: Sarah Henderson
 state:	victoria
 party:	Liberal Party of Australia
 role: senator
