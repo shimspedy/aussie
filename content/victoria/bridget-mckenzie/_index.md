@@ -20,7 +20,7 @@ party:	The Nationals
 role: senator
 inoffice: current
 born:  27-12-1969
-elected: 2022
+elected: "2022"
 mailing1:	172 High Street Wodonga, VIC, 3690
 mailing2: PO Box 6100 Senate Parliament House Canberra ACT 2600
 phone1:	(02) 6024 2560
